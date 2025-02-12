@@ -147,10 +147,10 @@ Or use natural language:
 
 ## Features
 
-- ✨ AI-powered chat responses
-- 💰 Token balance checking
-- 💸 Token transfers
-- 🔍 Natural language command processing
+- AI-powered chat responses
+- Token balance checking
+- Token transfers
+- Natural language command processing
 
 ## Deployment Tips
 
