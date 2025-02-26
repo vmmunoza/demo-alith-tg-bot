@@ -144,6 +144,10 @@ Or use natural language:
 "Check balance for contract 0x... wallet 0x..."
 "Transfer 100 tokens from contract 0x... to 0x..."
 ```
+## Sample Output
+When you check a token balance, you'll see a response like this:
+
+
 
 ## Features
 
