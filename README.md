@@ -1,5 +1,3 @@
-# Introduction to Alith Framework and LazAI
-
 # Telegram bot with LazAI: Your new AI Agent with easiest steps
 
 Create a powerful Telegram bot that can handle token management on Metis Sepolia and respond intelligently to messages using LazAI's Alith SDK. This tutorial will guide you through the process step by step.
